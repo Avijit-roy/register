@@ -1,9 +1,17 @@
 {
-    "owner": {
-        "username": "Avijit-roy",
-        "email": "aj5298626@gmail.com"
+  "owner": {
+    "username": "Avijit-roy",
+    "email": "aj5298626@gmail.com"
+  },
+  "records": {
+    "TXT": [
+      "vc-domain-verify=avijit-roy.is-a.dev,896a45a896bd177c1538"
+    ],
+    "CNAME": {
+      "www": "de841b799516bb88.vercel-dns-017.com."
     },
-    "records": {
-        "TXT": ["vc-domain-verify=avijit-roy.is-a.dev,896a45a896bd177c1538"]
+    "TXT_records": {
+      "_vercel": "vc-domain-verify=www.avijit-roy.is-a.dev,f64acfa2f362174a8d5e"
     }
+  }
 }
